@@ -1,0 +1,30 @@
+<!-- name, overview, homepage, network  -->
+
+<div class="row">
+  <div class="col-12 pb-4">
+    <h1>
+      {{ tvData.name }}
+    </h1>
+  </div>
+  <div class="col-12 pb-3">
+    <h3>
+      Overview
+    </h3>
+    {{ tvData.overview }}
+  </div>
+
+  <div class="col-12 pb-3">
+    <h3>Homepage</h3>
+    <a href="{{ tvData.homepage }}"> {{ tvData.homepage}} </a>
+  </div>
+  <div class="col-12 pb-3">
+    <h3>Networks</h3>
+    {{ getNetworkNames() }}
+  </div>
+  <div class="col-12 pb-3">
+    <h3>Production Companies:</h3>
+    <p *ngFor="let p of tvData.production_companies">
+      {{ p.name }}
+    </p>
+  </div>
+</div>

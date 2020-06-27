@@ -1,0 +1,20 @@
+<div class="card bg-dark text-white text-center">
+  <img [src]="'http://image.tmdb.org/t/p/original/' + tvData.poster_path" class="card-img" [alt]="tvData.name">
+  <div class="card-img-overlay">
+    <h5 class="card-title">
+      {{ tvData.name }}
+    </h5>
+    <p class="card-text">
+      <strong>Status: </strong>
+      {{ tvData.status }}
+    </p>
+    <p class="card-text">
+      <strong>Popularity: </strong>
+      {{ tvData.popularity }}
+    </p>
+    <p class="card-text">
+      <strong>Average Rating: </strong>
+      {{ tvData.vote_average }}
+    </p>
+  </div>
+</div>
