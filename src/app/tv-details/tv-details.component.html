@@ -7,7 +7,7 @@
   </div>
 </div>
 <div class="row p-2">
-  <div class="col-12">
-    <app-tv-season [tvSeasonData]="tvSeasonData"></app-tv-season>
+  <div *ngFor="let season of tvData.seasons" class="col-12">
+    <app-tv-season [seasonNumber]="season.season_number"></app-tv-season>
   </div>
 </div>

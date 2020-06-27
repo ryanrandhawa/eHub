@@ -1,0 +1,96 @@
+{
+    "created_by": "AvanadeBootcamp",
+    "description": "Breaking Bad + 3",
+    "favorite_count": 0,
+    "id": "138212",
+    "items": [
+        {
+            "original_name": "Breaking Bad",
+            "genre_ids": [
+                18
+            ],
+            "media_type": "tv",
+            "name": "Breaking Bad",
+            "popularity": 73.423,
+            "origin_country": [
+                "US"
+            ],
+            "vote_count": 4028,
+            "first_air_date": "2008-01-20",
+            "backdrop_path": "/hbgPoI0GBrXJfGjYNV2fMQU0xou.jpg",
+            "original_language": "en",
+            "id": 1396,
+            "vote_average": 8.5,
+            "overview": "When Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+            "poster_path": "/1yeVJox3rjo2jBKrrihIMj7uoS9.jpg"
+        },
+        {
+            "original_name": "Stranger Things",
+            "genre_ids": [
+                18,
+                9648,
+                10765
+            ],
+            "media_type": "tv",
+            "name": "Stranger Things",
+            "popularity": 52.781,
+            "origin_country": [
+                "US"
+            ],
+            "vote_count": 3357,
+            "first_air_date": "2016-07-15",
+            "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+            "original_language": "en",
+            "id": 66732,
+            "vote_average": 8.4,
+            "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+            "poster_path": "/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg"
+        },
+        {
+            "original_name": "Seinfeld",
+            "genre_ids": [
+                35
+            ],
+            "media_type": "tv",
+            "name": "Seinfeld",
+            "popularity": 29.462,
+            "origin_country": [
+                "US"
+            ],
+            "vote_count": 782,
+            "first_air_date": "1989-07-05",
+            "backdrop_path": "/8JH8s4WKKSxGxtJvWbQAdaEjv9q.jpg",
+            "original_language": "en",
+            "id": 1400,
+            "vote_average": 8.3,
+            "overview": "A stand-up comedian and his three offbeat friends weather the pitfalls and payoffs of life in New York City in the '90s. It's a show about nothing.",
+            "poster_path": "/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg"
+        },
+        {
+            "original_name": "Rick and Morty",
+            "genre_ids": [
+                16,
+                35,
+                10765
+            ],
+            "media_type": "tv",
+            "name": "Rick and Morty",
+            "popularity": 68.008,
+            "origin_country": [
+                "US"
+            ],
+            "vote_count": 1930,
+            "first_air_date": "2013-12-02",
+            "backdrop_path": "/mzzHr6g1yvZ05Mc7hNj3tUdy2bM.jpg",
+            "original_language": "en",
+            "id": 60625,
+            "vote_average": 8.6,
+            "overview": "Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+            "poster_path": "/qJdfO3ahgAMf2rcmhoqngjBBZW1.jpg"
+        }
+    ],
+    "item_count": 4,
+    "iso_639_1": "en",
+    "name": "Tv Shows",
+    "poster_path": null
+}

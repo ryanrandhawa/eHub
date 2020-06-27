@@ -1,0 +1,1590 @@
+{
+    "_id": "525423c9760ee31328001ef1",
+    "air_date": "2010-03-21",
+    "episodes": [
+        {
+            "air_date": "2010-03-21",
+            "episode_number": 1,
+            "id": 62105,
+            "name": "No Mas",
+            "overview": "Walt faces a new threat on a new front and deals with an increasingly angry Skyler, who must consider what to do next with her life and the kids'. Meanwhile, Jesse comes face-to-face with some startling self-revelations.",
+            "production_code": "",
+            "season_number": 3,
+            "show_id": 1396,
+            "still_path": "/gOevWiZjFEeZgJBCQnWySzd6no9.jpg",
+            "vote_average": 7.657,
+            "vote_count": 54,
+            "crew": [
+                {
+                    "id": 66633,
+                    "credit_id": "52542275760ee313280006ce",
+                    "name": "Vince Gilligan",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": "/lYqC8Amj4owX05xQg5Yo7uUHgah.jpg"
+                },
+                {
+                    "id": 17419,
+                    "credit_id": "5254227b760ee31328000d85",
+                    "name": "Bryan Cranston",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/zizbtrRr1mKdiMoFPqlmybgfDHr.jpg"
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "53998110c3a3681d02001489",
+                    "name": "Michael Slovis",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1123195,
+                    "credit_id": "52b705e619c2955a1f0c895b",
+                    "name": "Skip MacDonald",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 0,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 11077,
+                    "name": "John de Lancie",
+                    "credit_id": "52542280760ee31328001390",
+                    "character": "Donald Margolis",
+                    "order": 73,
+                    "gender": 2,
+                    "profile_path": "/bb3j02gYvgs5ApK2l2qKCweYW5z.jpg"
+                },
+                {
+                    "id": 156990,
+                    "name": "Julie Dretzin",
+                    "credit_id": "52754a72760ee33556019f36",
+                    "character": "Pamela",
+                    "order": 80,
+                    "gender": 1,
+                    "profile_path": "/o79cnAY0K9dUepVEu5X1GrRyLtY.jpg"
+                },
+                {
+                    "id": 945491,
+                    "name": "Luis Moncada",
+                    "credit_id": "52754b23760ee3353f017890",
+                    "character": "Marco Salamanca",
+                    "order": 87,
+                    "gender": 2,
+                    "profile_path": "/bdn4GKTL0FitMgGCP9SjZToHaj8.jpg"
+                },
+                {
+                    "id": 57167,
+                    "name": "Jere Burns",
+                    "credit_id": "525423ca760ee3132800202b",
+                    "character": "Group Leader",
+                    "order": 120,
+                    "gender": 2,
+                    "profile_path": "/ok265IAb5lNPmI3Ulb4KRC5nwjK.jpg"
+                },
+                {
+                    "id": 115688,
+                    "name": "Carmen Serano",
+                    "credit_id": "52542273760ee31328000676",
+                    "character": "Carmen Molina",
+                    "order": 176,
+                    "gender": 1,
+                    "profile_path": null
+                }
+            ]
+        },
+        {
+            "air_date": "2010-03-28",
+            "episode_number": 2,
+            "id": 62106,
+            "name": "Caballo Sin Nombre",
+            "overview": "Despite ever-increasing tension between Walt and Skyler, he pulls out all the stops in an effort to reconcile with the family. Elsewhere, Saul is instrumental in getting Jesse involved in a most-unusual investment opportunity.",
+            "production_code": "",
+            "season_number": 3,
+            "show_id": 1396,
+            "still_path": "/h3k5PoJ0RuKBH7OLnT8IbcFWz80.jpg",
+            "vote_average": 7.878,
+            "vote_count": 49,
+            "crew": [
+                {
+                    "id": 111338,
+                    "credit_id": "52542275760ee31328000725",
+                    "name": "Adam Bernstein",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/h5TqewYvopqv2AeZytYcrMSupqu.jpg"
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "53998110c3a3681d02001489",
+                    "name": "Michael Slovis",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1280074,
+                    "credit_id": "52b7051619c29533d00e8c79",
+                    "name": "Kelley Dixon",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 1,
+                    "profile_path": "/gPlAQoRbQZp4ZYAY4GsBPpznolt.jpg"
+                },
+                {
+                    "id": 24951,
+                    "credit_id": "52542286760ee31328001ab9",
+                    "name": "Peter Gould",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 41249,
+                    "name": "Tess Harper",
+                    "credit_id": "52542277760ee31328000a61",
+                    "character": "Mrs. Pinkman",
+                    "order": 75,
+                    "gender": 1,
+                    "profile_path": "/i1DUvkwvkTJcDhrGa742GaGBqIg.jpg"
+                },
+                {
+                    "id": 95195,
+                    "name": "Michael Bofshever",
+                    "credit_id": "527440ce760ee3570906ada3",
+                    "character": "Mr. Pinkman",
+                    "order": 75,
+                    "gender": 2,
+                    "profile_path": "/wd4CATP5RQTq5iAyTJEC74qkStV.jpg"
+                },
+                {
+                    "id": 1217972,
+                    "name": "Dan Desmond",
+                    "credit_id": "5274e93e760ee37c93080336",
+                    "character": "Mr. Gardiner",
+                    "order": 75,
+                    "gender": 2,
+                    "profile_path": "/pPxBi3J0N7UBGv7N8gKowUunjGQ.jpg"
+                },
+                {
+                    "id": 945491,
+                    "name": "Luis Moncada",
+                    "credit_id": "52754b23760ee3353f017890",
+                    "character": "Marco Salamanca",
+                    "order": 87,
+                    "gender": 2,
+                    "profile_path": "/bdn4GKTL0FitMgGCP9SjZToHaj8.jpg"
+                },
+                {
+                    "id": 582668,
+                    "name": "Jeremiah Bitsui",
+                    "credit_id": "5275464a760ee33556010f2a",
+                    "character": "Victor",
+                    "order": 101,
+                    "gender": 0,
+                    "profile_path": "/2wdVsY92E6YFClrGtMXJcmTvrL5.jpg"
+                },
+                {
+                    "id": 1173,
+                    "name": "Mark Margolis",
+                    "credit_id": "5254227b760ee31328000e52",
+                    "character": "Tio Salamanca",
+                    "order": 132,
+                    "gender": 2,
+                    "profile_path": "/xs9xgFvhdhPkmQ9e4CGw1cQGxWr.jpg"
+                },
+                {
+                    "id": 20379,
+                    "name": "Christopher Cousins",
+                    "credit_id": "527504f6760ee347c912980c",
+                    "character": "Ted Beneke",
+                    "order": 136,
+                    "gender": 2,
+                    "profile_path": "/1HGQISEy6FBSse2QuTKj2yfVFrM.jpg"
+                },
+                {
+                    "id": 61535,
+                    "name": "Steven Michael Quezada",
+                    "credit_id": "5271b489760ee35b3e0881a7",
+                    "character": "Steven Gomez",
+                    "order": 173,
+                    "gender": 2,
+                    "profile_path": "/4BRo6oc26kePVYxgNzYwUrDagVO.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2010-04-04",
+            "episode_number": 3,
+            "id": 62107,
+            "name": "I.F.T.",
+            "overview": "Walt ignores Skyler's demands, furthering the rift between them and pushing her to break bad. Still suffering from panic and anxiety attacks, Hank crosses a line at work.",
+            "production_code": "",
+            "season_number": 3,
+            "show_id": 1396,
+            "still_path": "/jH2nkMFxuX5tXc832jyDNU4AjKq.jpg",
+            "vote_average": 7.646,
+            "vote_count": 48,
+            "crew": [
+                {
+                    "id": 1223193,
+                    "credit_id": "52542279760ee31328000b45",
+                    "name": "George Mastras",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 29779,
+                    "credit_id": "52542280760ee31328001325",
+                    "name": "Michelle MacLaren",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 1,
+                    "profile_path": "/7pSOTNnQB5GJXm5HylTY04Y2QAB.jpg"
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "53998110c3a3681d02001489",
+                    "name": "Michael Slovis",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1123195,
+                    "credit_id": "52b705e619c2955a1f0c895b",
+                    "name": "Skip MacDonald",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 0,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 11160,
+                    "name": "Danny Trejo",
+                    "credit_id": "5254227f760ee313280011d7",
+                    "character": "Tortuga",
+                    "order": 75,
+                    "gender": 2,
+                    "profile_path": "/7bIZxLm7DUfS1y2OZgW2gKyYhTg.jpg"
+                },
+                {
+                    "id": 572541,
+                    "name": "Caleb Landry Jones",
+                    "credit_id": "5274ec60760ee37c9308874c",
+                    "character": "Louis (as Caleb Jones)",
+                    "order": 76,
+                    "gender": 2,
+                    "profile_path": "/a5RwSg8YN9JW0VZqekIbiJlLVhJ.jpg"
+                },
+                {
+                    "id": 19491,
+                    "name": "Stoney Westmoreland",
+                    "credit_id": "5275a2ee760ee33562121029",
+                    "character": "Policeman",
+                    "order": 76,
+                    "gender": 2,
+                    "profile_path": "/k4SWGI7eCTNLwMsrY4FsNcPljyM.jpg"
+                },
+                {
+                    "id": 12435,
+                    "name": "Shari Rhodes",
+                    "credit_id": "5275a363760ee33562121b5e",
+                    "character": "Bingo Lady",
+                    "order": 77,
+                    "gender": 1,
+                    "profile_path": "/eXQ9dUdKqqP6NUbpMfUl2xWCcaA.jpg"
+                },
+                {
+                    "id": 156990,
+                    "name": "Julie Dretzin",
+                    "credit_id": "52754a72760ee33556019f36",
+                    "character": "Pamela",
+                    "order": 80,
+                    "gender": 1,
+                    "profile_path": "/o79cnAY0K9dUepVEu5X1GrRyLtY.jpg"
+                },
+                {
+                    "id": 945491,
+                    "name": "Luis Moncada",
+                    "credit_id": "52754b23760ee3353f017890",
+                    "character": "Marco Salamanca",
+                    "order": 87,
+                    "gender": 2,
+                    "profile_path": "/bdn4GKTL0FitMgGCP9SjZToHaj8.jpg"
+                },
+                {
+                    "id": 66148,
+                    "name": "Javier Grajeda",
+                    "credit_id": "5275a26a760ee3352b11a79f",
+                    "character": "Juan Bolsa",
+                    "order": 123,
+                    "gender": 2,
+                    "profile_path": "/btMQzeHaFkUDzRjBccPy16yjER.jpg"
+                },
+                {
+                    "id": 1173,
+                    "name": "Mark Margolis",
+                    "credit_id": "5254227b760ee31328000e52",
+                    "character": "Tio Salamanca",
+                    "order": 132,
+                    "gender": 2,
+                    "profile_path": "/xs9xgFvhdhPkmQ9e4CGw1cQGxWr.jpg"
+                },
+                {
+                    "id": 20379,
+                    "name": "Christopher Cousins",
+                    "credit_id": "527504f6760ee347c912980c",
+                    "character": "Ted Beneke",
+                    "order": 136,
+                    "gender": 2,
+                    "profile_path": "/1HGQISEy6FBSse2QuTKj2yfVFrM.jpg"
+                },
+                {
+                    "id": 61535,
+                    "name": "Steven Michael Quezada",
+                    "credit_id": "5271b489760ee35b3e0881a7",
+                    "character": "Steven Gomez",
+                    "order": 173,
+                    "gender": 2,
+                    "profile_path": "/4BRo6oc26kePVYxgNzYwUrDagVO.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2010-04-11",
+            "episode_number": 4,
+            "id": 62108,
+            "name": "Green Light",
+            "overview": "Walt loses control as he reacts to Skyler's news, endangering his job and relationships with Saul and Jesse. Hank throws himself into his blue meth investigation. Jesse enacts a new plan.",
+            "production_code": "",
+            "season_number": 3,
+            "show_id": 1396,
+            "still_path": "/1Se5PpvIgUey9MgXmrKkgO8HVye.jpg",
+            "vote_average": 7.469,
+            "vote_count": 48,
+            "crew": [
+                {
+                    "id": 1223194,
+                    "credit_id": "5254227d760ee31328000fb2",
+                    "name": "Sam Catlin",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": "/5Xt7ONeJpF3x2XZ9JwQO9vGDuJ1.jpg"
+                },
+                {
+                    "id": 1214396,
+                    "credit_id": "525423ca760ee31328002186",
+                    "name": "Scott Winant",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "53998110c3a3681d02001489",
+                    "name": "Michael Slovis",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1280074,
+                    "credit_id": "52b7051619c29533d00e8c79",
+                    "name": "Kelley Dixon",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 1,
+                    "profile_path": "/gPlAQoRbQZp4ZYAY4GsBPpznolt.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 20088,
+                    "name": "Jolene Purdy",
+                    "credit_id": "5275a56f760ee31a0e01f504",
+                    "character": "Cara",
+                    "order": 78,
+                    "gender": 1,
+                    "profile_path": "/9Tc4JXy9SrXt8NIhNwzTR9khfoq.jpg"
+                },
+                {
+                    "id": 35566,
+                    "name": "Mark Hanson",
+                    "credit_id": "5275a639760ee3354c134a68",
+                    "character": "Burnout",
+                    "order": 79,
+                    "gender": 2,
+                    "profile_path": "/b6YYLdFZqiGUnBzj2n2iKf0vjwt.jpg"
+                },
+                {
+                    "id": 582668,
+                    "name": "Jeremiah Bitsui",
+                    "credit_id": "5275464a760ee33556010f2a",
+                    "character": "Victor",
+                    "order": 101,
+                    "gender": 0,
+                    "profile_path": "/2wdVsY92E6YFClrGtMXJcmTvrL5.jpg"
+                },
+                {
+                    "id": 20379,
+                    "name": "Christopher Cousins",
+                    "credit_id": "527504f6760ee347c912980c",
+                    "character": "Ted Beneke",
+                    "order": 136,
+                    "gender": 2,
+                    "profile_path": "/1HGQISEy6FBSse2QuTKj2yfVFrM.jpg"
+                },
+                {
+                    "id": 9291,
+                    "name": "Michael Shamus Wiles",
+                    "credit_id": "5271b622760ee35b0709869c",
+                    "character": "ASAC George Merkert",
+                    "order": 138,
+                    "gender": 2,
+                    "profile_path": "/upfSW6BGze446iqsZRehzcToNm8.jpg"
+                },
+                {
+                    "id": 61535,
+                    "name": "Steven Michael Quezada",
+                    "credit_id": "5271b489760ee35b3e0881a7",
+                    "character": "Steven Gomez",
+                    "order": 173,
+                    "gender": 2,
+                    "profile_path": "/4BRo6oc26kePVYxgNzYwUrDagVO.jpg"
+                },
+                {
+                    "id": 115688,
+                    "name": "Carmen Serano",
+                    "credit_id": "52542273760ee31328000676",
+                    "character": "Carmen Molina",
+                    "order": 176,
+                    "gender": 1,
+                    "profile_path": null
+                }
+            ]
+        },
+        {
+            "air_date": "2010-04-18",
+            "episode_number": 5,
+            "id": 62109,
+            "name": "Mas",
+            "overview": "Gus increases his efforts to lure Walt back into business, forcing a rift between Walt and Jesse. Skyler doubts her new relationship. Marie confides in Skyler about her concern for Hank's well-being.",
+            "production_code": "",
+            "season_number": 3,
+            "show_id": 1396,
+            "still_path": "/m2cipfAKEdLR4MIZKA3EiOcTYiZ.jpg",
+            "vote_average": 7.913,
+            "vote_count": 46,
+            "crew": [
+                {
+                    "id": 212408,
+                    "credit_id": "5274fa85760ee343c00f6cb7",
+                    "name": "Johan Renck",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/7YACBT9004gVfKTwkViPfai0fkT.jpg"
+                },
+                {
+                    "id": 1223198,
+                    "credit_id": "52542287760ee31328001ad1",
+                    "name": "Moira Walley-Beckett",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 1,
+                    "profile_path": "/no9Qs6FPlMH0242d1hW8BOMn5zU.jpg"
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "53998110c3a3681d02001489",
+                    "name": "Michael Slovis",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1123195,
+                    "credit_id": "52b705e619c2955a1f0c895b",
+                    "name": "Skip MacDonald",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 0,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 167759,
+                    "name": "Carole Gutierrez",
+                    "credit_id": "52762e0a760ee36b3709ce03",
+                    "character": "Mrs. Ortega",
+                    "order": 80,
+                    "gender": 1,
+                    "profile_path": "/u44sNE2ztyx6zO8WVaEKpRo61D1.jpg"
+                },
+                {
+                    "id": 156990,
+                    "name": "Julie Dretzin",
+                    "credit_id": "52754a72760ee33556019f36",
+                    "character": "Pamela",
+                    "order": 80,
+                    "gender": 1,
+                    "profile_path": "/o79cnAY0K9dUepVEu5X1GrRyLtY.jpg"
+                },
+                {
+                    "id": 163839,
+                    "name": "Michael McCormick",
+                    "credit_id": "52762f65760ee3354c281454",
+                    "character": "Pa Kettle",
+                    "order": 81,
+                    "gender": 2,
+                    "profile_path": "/pU1eUrtD2SNt3PDz8jvHawOxxSb.jpg"
+                },
+                {
+                    "id": 138266,
+                    "name": "Kathy Rose Center",
+                    "credit_id": "52762f9f760ee35a9d0d7351",
+                    "character": "Ma Kettle",
+                    "order": 82,
+                    "gender": 0,
+                    "profile_path": "/qp2kddgWdNBBDHqpIvArE6qwvDe.jpg"
+                },
+                {
+                    "id": 20379,
+                    "name": "Christopher Cousins",
+                    "credit_id": "527504f6760ee347c912980c",
+                    "character": "Ted Beneke",
+                    "order": 136,
+                    "gender": 2,
+                    "profile_path": "/1HGQISEy6FBSse2QuTKj2yfVFrM.jpg"
+                },
+                {
+                    "id": 61535,
+                    "name": "Steven Michael Quezada",
+                    "credit_id": "5271b489760ee35b3e0881a7",
+                    "character": "Steven Gomez",
+                    "order": 173,
+                    "gender": 2,
+                    "profile_path": "/4BRo6oc26kePVYxgNzYwUrDagVO.jpg"
+                },
+                {
+                    "id": 82945,
+                    "name": "Charles Baker",
+                    "credit_id": "52744007760ee356f6076365",
+                    "character": "Skinny Pete",
+                    "order": 182,
+                    "gender": 2,
+                    "profile_path": "/yuRBqdgCh4OgTsfl2Xs4mC6PpnZ.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2010-04-25",
+            "episode_number": 6,
+            "id": 62110,
+            "name": "Sunset",
+            "overview": "Walt settles into his new surroundings; Walt, Jr. wants answers about his parents' relationship; Hank's investigation causes problems for Walt and Jesse.",
+            "production_code": "",
+            "season_number": 3,
+            "show_id": 1396,
+            "still_path": "/sl5zRr0u0kYcIyCdQjOTsexq4bL.jpg",
+            "vote_average": 8.288,
+            "vote_count": 52,
+            "crew": [
+                {
+                    "id": 29924,
+                    "credit_id": "5254227f760ee313280011f5",
+                    "name": "John Shiban",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": "/rswDSJsdupySS9oEBKzYDE7Uod9.jpg"
+                },
+                {
+                    "id": 29924,
+                    "credit_id": "525423cb760ee3132800227c",
+                    "name": "John Shiban",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/rswDSJsdupySS9oEBKzYDE7Uod9.jpg"
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "53998110c3a3681d02001489",
+                    "name": "Michael Slovis",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1280074,
+                    "credit_id": "52b7051619c29533d00e8c79",
+                    "name": "Kelley Dixon",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 1,
+                    "profile_path": "/gPlAQoRbQZp4ZYAY4GsBPpznolt.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 76537,
+                    "name": "Tom Kiesche",
+                    "credit_id": "52745042760ee3570909ac98",
+                    "character": "Clovis",
+                    "order": 84,
+                    "gender": 2,
+                    "profile_path": "/jo1dlwcD5SduyHUyROR7JExZe4Q.jpg"
+                },
+                {
+                    "id": 210697,
+                    "name": "Frank Bond",
+                    "credit_id": "527631bb760ee3354c287607",
+                    "character": "Realtor",
+                    "order": 85,
+                    "gender": 2,
+                    "profile_path": "/5EyqkOeNDzksCPgvZCwvPyujPbz.jpg"
+                },
+                {
+                    "id": 223397,
+                    "name": "Jiji Hise",
+                    "credit_id": "52763214760ee36b370aa6a1",
+                    "character": "Mother",
+                    "order": 86,
+                    "gender": 0,
+                    "profile_path": "/ttGiAfKXVjNNdKfNhFxxCibQ1QJ.jpg"
+                },
+                {
+                    "id": 945491,
+                    "name": "Luis Moncada",
+                    "credit_id": "52754b23760ee3353f017890",
+                    "character": "Marco Salamanca",
+                    "order": 87,
+                    "gender": 2,
+                    "profile_path": "/bdn4GKTL0FitMgGCP9SjZToHaj8.jpg"
+                },
+                {
+                    "id": 82167,
+                    "name": "David Costabile",
+                    "credit_id": "527630ad760ee3353f281211",
+                    "character": "Gale Boetticher",
+                    "order": 120,
+                    "gender": 2,
+                    "profile_path": "/6AsHgSrNrta2DUs42OMCPtW37PQ.jpg"
+                },
+                {
+                    "id": 11519,
+                    "name": "Larry Hankin",
+                    "credit_id": "5276312a760ee33e4400b8c7",
+                    "character": "Old Joe",
+                    "order": 136,
+                    "gender": 2,
+                    "profile_path": "/biJbpyFcZXShqCNe41Z1kc82Gkb.jpg"
+                },
+                {
+                    "id": 9291,
+                    "name": "Michael Shamus Wiles",
+                    "credit_id": "5271b622760ee35b0709869c",
+                    "character": "ASAC George Merkert",
+                    "order": 138,
+                    "gender": 2,
+                    "profile_path": "/upfSW6BGze446iqsZRehzcToNm8.jpg"
+                },
+                {
+                    "id": 147085,
+                    "name": "Tina Parker",
+                    "credit_id": "52753cc8760ee3157002006b",
+                    "character": "Francesca",
+                    "order": 168,
+                    "gender": 1,
+                    "profile_path": "/5xN19jxFb7MQM8dvnqfaeAdyMD2.jpg"
+                },
+                {
+                    "id": 191202,
+                    "name": "Matt Jones",
+                    "credit_id": "52744535760ee3572209100e",
+                    "character": "Badger",
+                    "order": 182,
+                    "gender": 2,
+                    "profile_path": "/hGyN6Zz239gN6VP4hJbrIq9R6wd.jpg"
+                },
+                {
+                    "id": 82945,
+                    "name": "Charles Baker",
+                    "credit_id": "52744007760ee356f6076365",
+                    "character": "Skinny Pete",
+                    "order": 182,
+                    "gender": 2,
+                    "profile_path": "/yuRBqdgCh4OgTsfl2Xs4mC6PpnZ.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2010-05-02",
+            "episode_number": 7,
+            "id": 62111,
+            "name": "One Minute",
+            "overview": "Hank's increasing volatility forces a confrontation with Jesse and trouble at work. Skyler pressures Walt to make a deal. Gus' actions have severe consequences.",
+            "production_code": "",
+            "season_number": 3,
+            "show_id": 1396,
+            "still_path": "/AoRbX7ezyWTA6kADtQlL4cyRuLd.jpg",
+            "vote_average": 8.406,
+            "vote_count": 48,
+            "crew": [
+                {
+                    "id": 103009,
+                    "credit_id": "52542286760ee31328001a8b",
+                    "name": "Thomas Schnauz",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 29779,
+                    "credit_id": "52542280760ee31328001325",
+                    "name": "Michelle MacLaren",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 1,
+                    "profile_path": "/7pSOTNnQB5GJXm5HylTY04Y2QAB.jpg"
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "53998110c3a3681d02001489",
+                    "name": "Michael Slovis",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1123195,
+                    "credit_id": "52b705e619c2955a1f0c895b",
+                    "name": "Skip MacDonald",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 0,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 945491,
+                    "name": "Luis Moncada",
+                    "credit_id": "52754b23760ee3353f017890",
+                    "character": "Marco Salamanca",
+                    "order": 87,
+                    "gender": 2,
+                    "profile_path": "/bdn4GKTL0FitMgGCP9SjZToHaj8.jpg"
+                },
+                {
+                    "id": 74538,
+                    "name": "Nate Mooney",
+                    "credit_id": "527632fc760ee36b370ac9eb",
+                    "character": "Arms Dealer",
+                    "order": 87,
+                    "gender": 2,
+                    "profile_path": "/g9GCabrHoMfNP7NfhS8Q0VkVJ2E.jpg"
+                },
+                {
+                    "id": 109787,
+                    "name": "Michael Showers",
+                    "credit_id": "52763381760ee33449026de3",
+                    "character": "Union Rep",
+                    "order": 88,
+                    "gender": 2,
+                    "profile_path": "/7QAkmhrZVgRYflui9rj9Jf8fiYS.jpg"
+                },
+                {
+                    "id": 156605,
+                    "name": "Mark Sivertsen",
+                    "credit_id": "5276339a760ee35a9d0ec267",
+                    "character": "ABQ Detective #1",
+                    "order": 89,
+                    "gender": 2,
+                    "profile_path": "/MXbRFhkhmu1qpAD2vqyPaAfuNt.jpg"
+                },
+                {
+                    "id": 82167,
+                    "name": "David Costabile",
+                    "credit_id": "527630ad760ee3353f281211",
+                    "character": "Gale Boetticher",
+                    "order": 120,
+                    "gender": 2,
+                    "profile_path": "/6AsHgSrNrta2DUs42OMCPtW37PQ.jpg"
+                },
+                {
+                    "id": 1173,
+                    "name": "Mark Margolis",
+                    "credit_id": "5254227b760ee31328000e52",
+                    "character": "Tio Salamanca",
+                    "order": 132,
+                    "gender": 2,
+                    "profile_path": "/xs9xgFvhdhPkmQ9e4CGw1cQGxWr.jpg"
+                },
+                {
+                    "id": 9291,
+                    "name": "Michael Shamus Wiles",
+                    "credit_id": "5271b622760ee35b0709869c",
+                    "character": "ASAC George Merkert",
+                    "order": 138,
+                    "gender": 2,
+                    "profile_path": "/upfSW6BGze446iqsZRehzcToNm8.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2010-05-09",
+            "episode_number": 8,
+            "id": 62112,
+            "name": "I See You",
+            "overview": "The family waits for news about Hank. While Jesse covers at the lab, Walt attempts to placate Gus. After witnessing a disturbing outburst, Walt worries he and his family are in danger.",
+            "production_code": "",
+            "season_number": 3,
+            "show_id": 1396,
+            "still_path": "/edBDR59bzVWdMtCawimRzOMgrlW.jpg",
+            "vote_average": 7.841,
+            "vote_count": 44,
+            "crew": [
+                {
+                    "id": 1212287,
+                    "credit_id": "52542281760ee31328001550",
+                    "name": "Colin Bucksey",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/M0HLG2t9vO31EOyn0XYYi48Zl5.jpg"
+                },
+                {
+                    "id": 1223203,
+                    "credit_id": "525423ce760ee3132800261a",
+                    "name": "Gennifer Hutchison",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 1,
+                    "profile_path": null
+                },
+                {
+                    "id": 1330080,
+                    "credit_id": "539982d8c3a3681d0a0014f5",
+                    "name": "Peter Reniers",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "53998110c3a3681d02001489",
+                    "name": "Michael Slovis",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1280074,
+                    "credit_id": "52b7051619c29533d00e8c79",
+                    "name": "Kelley Dixon",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 1,
+                    "profile_path": "/gPlAQoRbQZp4ZYAY4GsBPpznolt.jpg"
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1224374,
+                    "name": "Michael Bryan French",
+                    "credit_id": "527634ab760ee3354c290334",
+                    "character": "Doctor",
+                    "order": 90,
+                    "gender": 0,
+                    "profile_path": "/5c4JbJo0yzGzdHgRPjxps0k7Qjp.jpg"
+                },
+                {
+                    "id": 36135,
+                    "name": "Christopher Dempsey",
+                    "credit_id": "5276352e760ee35aa00c9c27",
+                    "character": "ER Doctor #1",
+                    "order": 91,
+                    "gender": 2,
+                    "profile_path": "/nOX8sCxl0LRFYMkYauWFD0xwaDm.jpg"
+                },
+                {
+                    "id": 1151637,
+                    "name": "Lora Martinez-Cunningham",
+                    "credit_id": "5276354f760ee33e44017683",
+                    "character": "ER Doctor #2 (as Lora Cunningham)",
+                    "order": 92,
+                    "gender": 1,
+                    "profile_path": "/zRiTvCDFR8i5OyxYDFmRPuDNbSF.jpg"
+                },
+                {
+                    "id": 582668,
+                    "name": "Jeremiah Bitsui",
+                    "credit_id": "5275464a760ee33556010f2a",
+                    "character": "Victor",
+                    "order": 101,
+                    "gender": 0,
+                    "profile_path": "/2wdVsY92E6YFClrGtMXJcmTvrL5.jpg"
+                },
+                {
+                    "id": 82167,
+                    "name": "David Costabile",
+                    "credit_id": "527630ad760ee3353f281211",
+                    "character": "Gale Boetticher",
+                    "order": 120,
+                    "gender": 2,
+                    "profile_path": "/6AsHgSrNrta2DUs42OMCPtW37PQ.jpg"
+                },
+                {
+                    "id": 66148,
+                    "name": "Javier Grajeda",
+                    "credit_id": "5275a26a760ee3352b11a79f",
+                    "character": "Juan Bolsa",
+                    "order": 123,
+                    "gender": 2,
+                    "profile_path": "/btMQzeHaFkUDzRjBccPy16yjER.jpg"
+                },
+                {
+                    "id": 9291,
+                    "name": "Michael Shamus Wiles",
+                    "credit_id": "5271b622760ee35b0709869c",
+                    "character": "ASAC George Merkert",
+                    "order": 138,
+                    "gender": 2,
+                    "profile_path": "/upfSW6BGze446iqsZRehzcToNm8.jpg"
+                },
+                {
+                    "id": 61535,
+                    "name": "Steven Michael Quezada",
+                    "credit_id": "5271b489760ee35b3e0881a7",
+                    "character": "Steven Gomez",
+                    "order": 173,
+                    "gender": 2,
+                    "profile_path": "/4BRo6oc26kePVYxgNzYwUrDagVO.jpg"
+                },
+                {
+                    "id": 82945,
+                    "name": "Charles Baker",
+                    "credit_id": "52744007760ee356f6076365",
+                    "character": "Skinny Pete",
+                    "order": 182,
+                    "gender": 2,
+                    "profile_path": "/yuRBqdgCh4OgTsfl2Xs4mC6PpnZ.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2010-05-16",
+            "episode_number": 9,
+            "id": 62113,
+            "name": "Kafkaesque",
+            "overview": "As Hank's hospital bills stack up, Skyler hatches a plan. Walt and Gus come to a better understanding. Jesse, looking for more independence, pursues a new opportunity.",
+            "production_code": "",
+            "season_number": 3,
+            "show_id": 1396,
+            "still_path": "/zfUECD3RhKQ72cXE3JZTpPW5lEL.jpg",
+            "vote_average": 7.717,
+            "vote_count": 46,
+            "crew": [
+                {
+                    "id": 1223193,
+                    "credit_id": "52542279760ee31328000b45",
+                    "name": "George Mastras",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "525423cb760ee3132800238d",
+                    "name": "Michael Slovis",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1330080,
+                    "credit_id": "539982d8c3a3681d0a0014f5",
+                    "name": "Peter Reniers",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "53998110c3a3681d02001489",
+                    "name": "Michael Slovis",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1123195,
+                    "credit_id": "52b705e619c2955a1f0c895b",
+                    "name": "Skip MacDonald",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 0,
+                    "profile_path": null
+                },
+                {
+                    "id": 24951,
+                    "credit_id": "52542286760ee31328001ab9",
+                    "name": "Peter Gould",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 88949,
+                    "name": "Mark Harelik",
+                    "credit_id": "527636e8760ee35a9d0f3073",
+                    "character": "Doctor",
+                    "order": 93,
+                    "gender": 2,
+                    "profile_path": "/yn7Pw7t5YOEimhXsUtdM3vmvuWG.jpg"
+                },
+                {
+                    "id": 156667,
+                    "name": "Cynthia Ruffin",
+                    "credit_id": "52763733760ee35a9a0de06a",
+                    "character": "Hospital Administrator",
+                    "order": 94,
+                    "gender": 1,
+                    "profile_path": "/v9pRPxUbs8Cbm9c39Nshnzoi6gD.jpg"
+                },
+                {
+                    "id": 176463,
+                    "name": "Fernando Escandon",
+                    "credit_id": "52763765760ee35a9a0defae",
+                    "character": "Commercial Narrator (voice)",
+                    "order": 95,
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 582668,
+                    "name": "Jeremiah Bitsui",
+                    "credit_id": "5275464a760ee33556010f2a",
+                    "character": "Victor",
+                    "order": 101,
+                    "gender": 0,
+                    "profile_path": "/2wdVsY92E6YFClrGtMXJcmTvrL5.jpg"
+                },
+                {
+                    "id": 57167,
+                    "name": "Jere Burns",
+                    "credit_id": "525423ca760ee3132800202b",
+                    "character": "Group Leader",
+                    "order": 120,
+                    "gender": 2,
+                    "profile_path": "/ok265IAb5lNPmI3Ulb4KRC5nwjK.jpg"
+                },
+                {
+                    "id": 20379,
+                    "name": "Christopher Cousins",
+                    "credit_id": "527504f6760ee347c912980c",
+                    "character": "Ted Beneke",
+                    "order": 136,
+                    "gender": 2,
+                    "profile_path": "/1HGQISEy6FBSse2QuTKj2yfVFrM.jpg"
+                },
+                {
+                    "id": 61535,
+                    "name": "Steven Michael Quezada",
+                    "credit_id": "5271b489760ee35b3e0881a7",
+                    "character": "Steven Gomez",
+                    "order": 173,
+                    "gender": 2,
+                    "profile_path": "/4BRo6oc26kePVYxgNzYwUrDagVO.jpg"
+                },
+                {
+                    "id": 191202,
+                    "name": "Matt Jones",
+                    "credit_id": "52744535760ee3572209100e",
+                    "character": "Badger",
+                    "order": 182,
+                    "gender": 2,
+                    "profile_path": "/hGyN6Zz239gN6VP4hJbrIq9R6wd.jpg"
+                },
+                {
+                    "id": 82945,
+                    "name": "Charles Baker",
+                    "credit_id": "52744007760ee356f6076365",
+                    "character": "Skinny Pete",
+                    "order": 182,
+                    "gender": 2,
+                    "profile_path": "/yuRBqdgCh4OgTsfl2Xs4mC6PpnZ.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2010-05-23",
+            "episode_number": 10,
+            "id": 62114,
+            "name": "Fly",
+            "overview": "Walt becomes obsessed with a contaminant in the lab and refuses to finish the cook until it is eliminated. A frustrated Jesse attempts to get Walt back on track.",
+            "production_code": "",
+            "season_number": 3,
+            "show_id": 1396,
+            "still_path": "/gRLuy1Qd6RHxCTFxK2WBQwo5CGQ.jpg",
+            "vote_average": 7.449,
+            "vote_count": 49,
+            "crew": [
+                {
+                    "id": 1223194,
+                    "credit_id": "5254227d760ee31328000fb2",
+                    "name": "Sam Catlin",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": "/5Xt7ONeJpF3x2XZ9JwQO9vGDuJ1.jpg"
+                },
+                {
+                    "id": 1223198,
+                    "credit_id": "52542287760ee31328001ad1",
+                    "name": "Moira Walley-Beckett",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 1,
+                    "profile_path": "/no9Qs6FPlMH0242d1hW8BOMn5zU.jpg"
+                },
+                {
+                    "id": 67367,
+                    "credit_id": "525423cb760ee313280023d8",
+                    "name": "Rian Johnson",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/uPWwvdppeZVKPbYcjXKU8zyuAVh.jpg"
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "53998110c3a3681d02001489",
+                    "name": "Michael Slovis",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1280074,
+                    "credit_id": "52b7051619c29533d00e8c79",
+                    "name": "Kelley Dixon",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 1,
+                    "profile_path": "/gPlAQoRbQZp4ZYAY4GsBPpznolt.jpg"
+                }
+            ],
+            "guest_stars": []
+        },
+        {
+            "air_date": "2010-05-30",
+            "episode_number": 11,
+            "id": 62115,
+            "name": "Abiquiu",
+            "overview": "Skyler gets involved with Walt's business while Hank struggles with recovery. Jesse has a startling discovery after meeting a girl at group therapy.",
+            "production_code": "",
+            "season_number": 3,
+            "show_id": 1396,
+            "still_path": "/llw7fwOmOMs6OSqwK96XrPPQZD3.jpg",
+            "vote_average": 7.544,
+            "vote_count": 45,
+            "crew": [
+                {
+                    "id": 29924,
+                    "credit_id": "5254227f760ee313280011f5",
+                    "name": "John Shiban",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": "/rswDSJsdupySS9oEBKzYDE7Uod9.jpg"
+                },
+                {
+                    "id": 103009,
+                    "credit_id": "52542286760ee31328001a8b",
+                    "name": "Thomas Schnauz",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 29779,
+                    "credit_id": "52542280760ee31328001325",
+                    "name": "Michelle MacLaren",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 1,
+                    "profile_path": "/7pSOTNnQB5GJXm5HylTY04Y2QAB.jpg"
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "53998110c3a3681d02001489",
+                    "name": "Michael Slovis",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1123195,
+                    "credit_id": "52b705e619c2955a1f0c895b",
+                    "name": "Skip MacDonald",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 0,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 78080,
+                    "name": "Krysten Ritter",
+                    "credit_id": "5254227e760ee31328001037",
+                    "character": "Jane Margolis",
+                    "order": 2,
+                    "gender": 1,
+                    "profile_path": "/bII7CIrRAc7JdDSfG8oDIbRPQCx.jpg"
+                },
+                {
+                    "id": 1123871,
+                    "name": "Mike Seal",
+                    "credit_id": "52754578760ee33562013f99",
+                    "character": "Rival Dealer #1",
+                    "order": 96,
+                    "gender": 0,
+                    "profile_path": "/1vikAAQB3xx4olisIu4JptQzFDV.jpg"
+                },
+                {
+                    "id": 1223197,
+                    "name": "Marius Stan",
+                    "credit_id": "5272587a760ee3045009ddec",
+                    "character": "Bogdan Wolynetz",
+                    "order": 112,
+                    "gender": 0,
+                    "profile_path": "/wSIrKmUXbohaRGORr0CTTTSGctK.jpg"
+                },
+                {
+                    "id": 57167,
+                    "name": "Jere Burns",
+                    "credit_id": "525423ca760ee3132800202b",
+                    "character": "Group Leader",
+                    "order": 120,
+                    "gender": 2,
+                    "profile_path": "/ok265IAb5lNPmI3Ulb4KRC5nwjK.jpg"
+                },
+                {
+                    "id": 927801,
+                    "name": "Virginia Montero",
+                    "credit_id": "52763984760ee33e44026131",
+                    "character": "Grandma",
+                    "order": 131,
+                    "gender": 1,
+                    "profile_path": "/d50XON0JDKCFpJAbpF1GsttrQaO.jpg"
+                },
+                {
+                    "id": 211474,
+                    "name": "Emily Rios",
+                    "credit_id": "5276391d760ee33e440250f4",
+                    "character": "Andrea Cantillo",
+                    "order": 176,
+                    "gender": 1,
+                    "profile_path": "/y7jYgYBXI9Lx5RJgJNhRKDhhmxL.jpg"
+                },
+                {
+                    "id": 191202,
+                    "name": "Matt Jones",
+                    "credit_id": "52744535760ee3572209100e",
+                    "character": "Badger",
+                    "order": 182,
+                    "gender": 2,
+                    "profile_path": "/hGyN6Zz239gN6VP4hJbrIq9R6wd.jpg"
+                },
+                {
+                    "id": 82945,
+                    "name": "Charles Baker",
+                    "credit_id": "52744007760ee356f6076365",
+                    "character": "Skinny Pete",
+                    "order": 182,
+                    "gender": 2,
+                    "profile_path": "/yuRBqdgCh4OgTsfl2Xs4mC6PpnZ.jpg"
+                }
+            ]
+        },
+        {
+            "air_date": "2010-06-06",
+            "episode_number": 12,
+            "id": 62116,
+            "name": "Half Measures",
+            "overview": "Against Walt's advice, Jesse lashes out . Fearing for Jesse's safety, Walt takes drastic action to intervene. A tragic event leads to a shocking confrontation.",
+            "production_code": "",
+            "season_number": 3,
+            "show_id": 1396,
+            "still_path": "/eO3zAuQzIU6yCLrr2GUh8943jyr.jpg",
+            "vote_average": 8.583,
+            "vote_count": 48,
+            "crew": [
+                {
+                    "id": 1223194,
+                    "credit_id": "5254227d760ee31328000fb2",
+                    "name": "Sam Catlin",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": "/5Xt7ONeJpF3x2XZ9JwQO9vGDuJ1.jpg"
+                },
+                {
+                    "id": 111338,
+                    "credit_id": "52542275760ee31328000725",
+                    "name": "Adam Bernstein",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/h5TqewYvopqv2AeZytYcrMSupqu.jpg"
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "53998110c3a3681d02001489",
+                    "name": "Michael Slovis",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1280074,
+                    "credit_id": "52b7051619c29533d00e8c79",
+                    "name": "Kelley Dixon",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 1,
+                    "profile_path": "/gPlAQoRbQZp4ZYAY4GsBPpznolt.jpg"
+                },
+                {
+                    "id": 24951,
+                    "credit_id": "52542286760ee31328001ab9",
+                    "name": "Peter Gould",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 1123871,
+                    "name": "Mike Seal",
+                    "credit_id": "52754578760ee33562013f99",
+                    "character": "Rival Dealer #1",
+                    "order": 96,
+                    "gender": 0,
+                    "profile_path": "/1vikAAQB3xx4olisIu4JptQzFDV.jpg"
+                },
+                {
+                    "id": 582668,
+                    "name": "Jeremiah Bitsui",
+                    "credit_id": "5275464a760ee33556010f2a",
+                    "character": "Victor",
+                    "order": 101,
+                    "gender": 0,
+                    "profile_path": "/2wdVsY92E6YFClrGtMXJcmTvrL5.jpg"
+                },
+                {
+                    "id": 211474,
+                    "name": "Emily Rios",
+                    "credit_id": "5276391d760ee33e440250f4",
+                    "character": "Andrea Cantillo",
+                    "order": 176,
+                    "gender": 1,
+                    "profile_path": "/y7jYgYBXI9Lx5RJgJNhRKDhhmxL.jpg"
+                },
+                {
+                    "id": 1834391,
+                    "name": "Julia Minesci",
+                    "credit_id": "5943e0e19251417f60024b4d",
+                    "character": "Wendi",
+                    "order": 186,
+                    "gender": 0,
+                    "profile_path": null
+                }
+            ]
+        },
+        {
+            "air_date": "2010-06-13",
+            "episode_number": 13,
+            "id": 62117,
+            "name": "Full Measure",
+            "overview": "With Jesse on the run and Mike in hot pursuit, Walt negotiates a bargain with Gus and concocts a disturbing plan to provide for his and Jesse's safety.",
+            "production_code": "",
+            "season_number": 3,
+            "show_id": 1396,
+            "still_path": "/mDUs18asTVVfqd56scRQ7W9r781.jpg",
+            "vote_average": 9.02,
+            "vote_count": 49,
+            "crew": [
+                {
+                    "id": 66633,
+                    "credit_id": "52542275760ee313280006ce",
+                    "name": "Vince Gilligan",
+                    "department": "Writing",
+                    "job": "Writer",
+                    "gender": 2,
+                    "profile_path": "/lYqC8Amj4owX05xQg5Yo7uUHgah.jpg"
+                },
+                {
+                    "id": 66633,
+                    "credit_id": "52542275760ee313280006e8",
+                    "name": "Vince Gilligan",
+                    "department": "Directing",
+                    "job": "Director",
+                    "gender": 2,
+                    "profile_path": "/lYqC8Amj4owX05xQg5Yo7uUHgah.jpg"
+                },
+                {
+                    "id": 52034,
+                    "credit_id": "53998110c3a3681d02001489",
+                    "name": "Michael Slovis",
+                    "department": "Camera",
+                    "job": "Director of Photography",
+                    "gender": 2,
+                    "profile_path": null
+                },
+                {
+                    "id": 1280074,
+                    "credit_id": "52b7051619c29533d00e8c79",
+                    "name": "Kelley Dixon",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 1,
+                    "profile_path": "/gPlAQoRbQZp4ZYAY4GsBPpznolt.jpg"
+                },
+                {
+                    "id": 1123195,
+                    "credit_id": "52b705e619c2955a1f0c895b",
+                    "name": "Skip MacDonald",
+                    "department": "Editing",
+                    "job": "Editor",
+                    "gender": 0,
+                    "profile_path": null
+                }
+            ],
+            "guest_stars": [
+                {
+                    "id": 93228,
+                    "name": "Louis Herthum",
+                    "credit_id": "52763bf0760ee35a9d1044d7",
+                    "character": "Realtor",
+                    "order": 95,
+                    "gender": 2,
+                    "profile_path": "/90PilDP290oC7V62oFIu5zYqVGJ.jpg"
+                },
+                {
+                    "id": 201975,
+                    "name": "Tiley Chao",
+                    "credit_id": "52763c18760ee3353f2a331d",
+                    "character": "Peng",
+                    "order": 96,
+                    "gender": 0,
+                    "profile_path": "/65ue0kHyuHMxbeGaVn5S1k5zkZb.jpg"
+                },
+                {
+                    "id": 18300,
+                    "name": "Eddie J. Fernandez",
+                    "credit_id": "52763c4c760ee3353f2a3e45",
+                    "character": "Cartel Gunman #1",
+                    "order": 97,
+                    "gender": 2,
+                    "profile_path": "/wzEilQWiKBsIJvn6vb3JzUvKU14.jpg"
+                },
+                {
+                    "id": 59674,
+                    "name": "Ben Hernandez Bray",
+                    "credit_id": "52763c65760ee33e4402e056",
+                    "character": "Cartel Gunman #2",
+                    "order": 98,
+                    "gender": 2,
+                    "profile_path": "/hBty1r73HUkvB30hFgrCxY2llcs.jpg"
+                },
+                {
+                    "id": 179882,
+                    "name": "Toby Holguin",
+                    "credit_id": "52763c7c760ee35aa00dfb1c",
+                    "character": "Cartel Gunman #3",
+                    "order": 99,
+                    "gender": 2,
+                    "profile_path": "/4jjsgFJYudtaIaX7ITxiFoBEQlo.jpg"
+                },
+                {
+                    "id": 1031469,
+                    "name": "Eddie Perez",
+                    "credit_id": "52763cb2760ee3354c2a876f",
+                    "character": "Cartel Gunman #4",
+                    "order": 100,
+                    "gender": 2,
+                    "profile_path": "/nxXXSx3vpWt9QNZoeuE0OFluFCY.jpg"
+                },
+                {
+                    "id": 582668,
+                    "name": "Jeremiah Bitsui",
+                    "credit_id": "5275464a760ee33556010f2a",
+                    "character": "Victor",
+                    "order": 101,
+                    "gender": 0,
+                    "profile_path": "/2wdVsY92E6YFClrGtMXJcmTvrL5.jpg"
+                },
+                {
+                    "id": 82167,
+                    "name": "David Costabile",
+                    "credit_id": "527630ad760ee3353f281211",
+                    "character": "Gale Boetticher",
+                    "order": 120,
+                    "gender": 2,
+                    "profile_path": "/6AsHgSrNrta2DUs42OMCPtW37PQ.jpg"
+                }
+            ]
+        }
+    ],
+    "name": "Season 3",
+    "overview": "In the third season, Walt continues to battle dueling identities: a desperate husband and father trying to provide for his family, and a newly appointed key player in the Albuquerque drug trade. As the danger around him escalates, Walt is now entrenched in the complex worlds of an angst-ridden family on the verge of dissolution, and the ruthless and unrelenting drug cartel.",
+    "id": 3575,
+    "poster_path": "/ffP8Q8ew048YofHRnFVM18B2fPG.jpg",
+    "season_number": 3
+}
