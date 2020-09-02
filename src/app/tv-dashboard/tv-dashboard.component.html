@@ -1,0 +1,5 @@
+<h3>Tv Dashboard</h3>
+
+<div *ngFor="let poster of posterList | sortArray:'dateFirstAdded':'asc'">
+  <app-tv-poster [poster]="poster"></app-tv-poster>
+</div>

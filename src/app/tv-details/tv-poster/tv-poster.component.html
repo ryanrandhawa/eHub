@@ -1,20 +1,20 @@
-<div class="card bg-dark text-white text-center">
-  <img [src]="'http://image.tmdb.org/t/p/original/' + tvData.poster_path" class="card-img" [alt]="tvData.name">
+<div appPosterHover class="card bg-dark text-white text-center w-50" >
+  <img [src]="'http://image.tmdb.org/t/p/original/' + poster.posterPath" class="card-img" [alt]="poster.name">
   <div class="card-img-overlay">
     <h5 class="card-title">
-      {{ tvData.name }}
+      {{ poster.name }}
     </h5>
     <p class="card-text">
-      <strong>Status: </strong>
-      {{ tvData.status }}
+      <strong>First Air Date: </strong>
+      {{ poster.firstAirDate | date }}
     </p>
     <p class="card-text">
       <strong>Popularity: </strong>
-      {{ tvData.popularity }}
+      {{ poster.popularity/100 | percent }}
     </p>
     <p class="card-text">
       <strong>Average Rating: </strong>
-      {{ tvData.vote_average }}
+      {{ poster.rating }}/10
     </p>
   </div>
 </div>

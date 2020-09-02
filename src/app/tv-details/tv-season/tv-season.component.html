@@ -1,8 +1,6 @@
-<ul class="list-group">
+<ul class="list-group" *ngIf="tvSeasonData">
   <li class="list-group-item" (click)="displayEpisodes()">{{ tvSeasonData.name }}</li>
 </ul>
 <ng-container *ngIf="seasonSelected">
-  <div *ngFor="let episode of episodeData">
-    <app-tv-episode [episode]="episode"></app-tv-episode>
-  </div>
+    <app-tv-episode [episodes]="episodeData"></app-tv-episode>
 </ng-container>

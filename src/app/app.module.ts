@@ -8,6 +8,9 @@ import { TvPosterComponent } from './tv-details/tv-poster/tv-poster.component';
 import { TvInfoComponent } from './tv-details/tv-info/tv-info.component';
 import { TvSeasonComponent } from './tv-details/tv-season/tv-season.component';
 import { TvEpisodeComponent } from './tv-details/tv-season/tv-episode/tv-episode.component';
+import { TvDashboardComponent } from './tv-dashboard/tv-dashboard.component';
+import { PosterHoverDirective } from './directives/poster-hover.directive';
+import { SortArrayPipe } from './pipes/sort-array.pipe';
 
 @NgModule({
   declarations: [
@@ -17,7 +20,10 @@ import { TvEpisodeComponent } from './tv-details/tv-season/tv-episode/tv-episode
     TvPosterComponent,
     TvInfoComponent,
     TvSeasonComponent,
-    TvEpisodeComponent
+    TvEpisodeComponent,
+    TvDashboardComponent,
+    PosterHoverDirective,
+    SortArrayPipe
   ],
   imports: [
     BrowserModule

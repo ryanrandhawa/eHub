@@ -10,7 +10,7 @@ export class TvSeasonComponent implements OnInit {
   @Input() seasonNumber: number;
   seasonSelected = false;
   tvSeasonData: TvSeason;
-  episodeData: Episode[];
+  episodeData: Episode[] = [];
   constructor() { }
 
   displayEpisodes() {

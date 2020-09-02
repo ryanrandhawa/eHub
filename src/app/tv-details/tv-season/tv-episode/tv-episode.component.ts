@@ -8,7 +8,7 @@ import { Episode } from 'src/app/models/tv-season.model';
 })
 export class TvEpisodeComponent implements OnInit {
 
-  @Input() episode: Episode;
+  @Input() episodes: Episode[];
   constructor() { }
 
   ngOnInit(): void {
